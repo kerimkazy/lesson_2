@@ -46,3 +46,4 @@ if __name__ == "__main__":
 
     for shape in shapes:
         shape.info()
+
